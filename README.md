@@ -4,7 +4,7 @@ Estou Participando do GR **_Formadores Ação_** Programação EM
 - Sou professora de  Matemática, Física e Pensamento Computacional  
 -  Atualmente sou professora formadora em Pensamento Computacional
 -  Assessora Pedagógica do Program a União Faz a Vida!
--  ![[](https://yt3.ggpht.com/ytc/AKedOLQuwvex8n6Qb0yPa_X-7DLnqSuYb9u1EiITL_Jo=s900-c-k-c0x00ffffff-no-rj)
+-  ![]()
 - franciele.pastori@escola.pr.gov.br
 - ### Estou aprendendo...
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
