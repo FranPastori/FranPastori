@@ -1,4 +1,4 @@
- <h1 align="center"> Ola! meu nome é Fran Pastori </h1>
+ <h1 align="center"> Olá! meu nome é Fran Pastori </h1>
 
 Estou Participando do GR **_Formadores Ação_** Programação EM :tulip:
 - Sou professora de  Matemática, Física e Pensamento Computacional  
@@ -12,11 +12,11 @@ Estou Participando do GR **_Formadores Ação_** Programação EM :tulip:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
--### Futuramente quero aprender...
+- ### Futuramente quero aprender...
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Contatos
+- ### Contatos
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-pastori-64486418a/)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/fpastori009)
