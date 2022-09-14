@@ -22,3 +22,6 @@ Estou Participando do GR **_Formadores Ação_** Programação EM :tulip:
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/fpastori009)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franpastori)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( franciele.pastori@escola.pr.gov.br)
+
+
+![](https://komarev.com/ghpvc/?username=FranPastori&style=flat-square)
