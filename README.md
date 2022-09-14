@@ -23,5 +23,11 @@ Estou Participando do GR **_Formadores Ação_** Programação EM :tulip:
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franpastori)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]( franciele.pastori@escola.pr.gov.br)
 
+<div align="center">
+  <a href="https://github.com/FranPastori">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FranPastori&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranPastori&layout=compact&langs_count=7&theme=swift"/>
+</div>
+
 
 ![](https://komarev.com/ghpvc/?username=FranPastori&style=flat-square)
