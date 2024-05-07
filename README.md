@@ -1,6 +1,6 @@
  <h1 align="center"> Olá! meu nome é Fran Pastori </h1>
 
-Estou Participando do GR **_Formadores Ação_** Programação EM :tulip:
+Programação EM :tulip:
 
 - Sou professora de:
 - 📊  Matemática
